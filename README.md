@@ -25,8 +25,9 @@ Este proyecto implementa un CRUD completo para dos entidades relacionadas: Produ
 
 ## Configuración de la Base de Datos (MySQL)
 
-Ejecuta lo siguiente en SQLyog, phpMyAdmin o consola MySQL:
+Copia y ejecuta lo siguiente en SQLyog, phpMyAdmin o consola MySQL:
 
+```sql
 -- Crear base de datos
 CREATE DATABASE IF NOT EXISTS tienda;
 
@@ -60,6 +61,11 @@ VALUES
     ('Smartphone', 'Smartphone de última generación', 799.99, 1),
     ('Camiseta', 'Camiseta de algodón', 19.99, 2),
     ('Sofa', 'Sofa de tres plazas', 499.99, 3);
+
+-- Verificar datos insertados
+SELECT * FROM Categoria;
+SELECT * FROM Producto;
+```
 
 ---
 
@@ -111,6 +117,11 @@ VALUES
 
 ---
 
+## Autor
+Coello Palomino, Ricardo  
+Desarrollo de Aplicaciones Web  
+TECSUP - Sección 5 - C24 - A - B  
+Semana 07
 ## Autor
 Coello Palomino, Ricardo  
 Desarrollo de Aplicaciones Web  
