@@ -117,13 +117,3 @@ SELECT * FROM Producto;
 
 ---
 
-## Autor
-Coello Palomino, Ricardo  
-Desarrollo de Aplicaciones Web  
-TECSUP - Sección 5 - C24 - A - B  
-Semana 07
-## Autor
-Coello Palomino, Ricardo  
-Desarrollo de Aplicaciones Web  
-TECSUP - Sección 5 - C24 - A - B  
-Semana 07
