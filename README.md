@@ -97,7 +97,7 @@ SELECT * FROM Producto;
 
 6. **Ejecutar el servidor y abrir en el navegador**
    - Iniciar Tomcat desde IntelliJ
-   - Visita: `http://localhost:8080/laboratorio_07/` (dependiendo de tu configuración)
+   - Visita: `http://localhost:8080/laboratorio_07/CategoriaServlet` (O ProductoServlet)
 
 ---
 
